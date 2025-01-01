@@ -1,6 +1,8 @@
 compile test.cpp using the following flags (ubuntu):
 g++ test.cpp -lncurses -lGL -lGLU -lglut
 
+main.cpp won't do anything until stable releases which i think wont be up anytime soon :)
+
 pending:
 - complex t-spins
 - drop indicator
